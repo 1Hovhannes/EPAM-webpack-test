@@ -1,6 +1,6 @@
-import { Button } from "./components/Button";
-import { Header } from "./components/Heading";
-import { counter } from "./utils/helpers";
+import { Button } from "../../components/Button";
+import { Header } from "../../components/Heading";
+import { counter } from "../../utils/helpers";
 
 let count = 0;
 
