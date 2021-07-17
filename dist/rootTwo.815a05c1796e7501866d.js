@@ -9,16 +9,6 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./filesJS/rootOne.component.js":
-/*!**************************************!*\
-  !*** ./filesJS/rootOne.component.js ***!
-  \**************************************/
-/***/ (() => {
-
-eval("console.log(\"Hello Webpack\");\r\n\n\n//# sourceURL=webpack://webpack/./filesJS/rootOne.component.js?");
-
-/***/ }),
-
 /***/ "./filesJS/rootTwo.component.js":
 /*!**************************************!*\
   !*** ./filesJS/rootTwo.component.js ***!
@@ -35,7 +25,6 @@ eval("console.log(\"Goodbye Webpack\");\r\n\n\n//# sourceURL=webpack://webpack/.
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module can't be inlined because the eval devtool is used.
-/******/ 	__webpack_modules__["./filesJS/rootOne.component.js"]();
 /******/ 	var __webpack_exports__ = {};
 /******/ 	__webpack_modules__["./filesJS/rootTwo.component.js"]();
 /******/ 	
